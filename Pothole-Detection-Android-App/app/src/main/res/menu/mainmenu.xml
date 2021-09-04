@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android3="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <!--<item android:title="Refresh"-->
+        <!--android:icon="@drawable/ic_refresh"-->
+        <!--android:id="@+id/action_refresh"-->
+        <!--android3:showAsAction="ifRoom"-->
+         <!--/>-->
+    <!--<item-->
+        <!--android:id="@+id/myswitch"-->
+        <!--android:title="toggle"-->
+        <!--app:showAsAction="always"-->
+
+        <!--app:actionLayout="@layout/switch_layout"-->
+        <!--/>-->
+
+</menu>
+
